@@ -20,5 +20,11 @@
     "lol",
     "modding",
     "files"
-  ]
+  ],
+  "dependencies": {
+    "binary-buffer-parser": "^1.1.2",
+    "expandjs": "^1.1.1",
+    "mkdirp": "^0.5.1",
+    "xp-fs": "^1.1.1"
+  }
 }
