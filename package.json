@@ -3,17 +3,17 @@
   "description": "Complete module to work with League of Legends files for modding",
   "version": "0.0.1",
   "license": "MIT",
-  "homepage": "https://github.com/LeagueTails/Exile",
+  "homepage": "https://github.com/LeagueTails/lol-exile",
   "author": {
     "name": "League Tails Community",
     "email": "leaguetailscommunity@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeagueTails/Exile.git"
+    "url": "https://github.com/LeagueTails/lol-exile.git"
   },
   "bugs": {
-    "url": "https://github.com/LeagueTails/Exile/issues"
+    "url": "https://github.com/LeagueTails/lol-exile/issues"
   },
   "keywords": [
     "leagueoflegends",
