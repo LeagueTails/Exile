@@ -1,0 +1,24 @@
+{
+  "name": "lol-exile",
+  "description": "Complete module to work with League of Legends files for modding",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/LeagueTails/Exile",
+  "author": {
+    "name": "League Tails Community",
+    "email": "leaguetailscommunity@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeagueTails/Exile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeagueTails/Exile/issues"
+  },
+  "keywords": [
+    "leagueoflegends",
+    "lol",
+    "modding",
+    "files"
+  ]
+}
